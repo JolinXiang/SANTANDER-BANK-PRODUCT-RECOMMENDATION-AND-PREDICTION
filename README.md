@@ -6,4 +6,4 @@ Developing a recommendation system for new products is an important step for San
 ## Objective
 The objectives of the project are twofold. First, to develop a recommender system application that enhances the customer experience by effectively recommending services based on their preferences. This will help customers choose the company product effectively and ultimately lead to increase customer satisfaction and improve customer experience. Second, to create a prediction model that helps the company improve its profit by identifying target customers and guiding the acquisition strategy of new products. By achieving these two goals, the company can improve its overall performance and provide better service to its customers.
 ## Code
-https://github.com/JolinXiang/SANTANDER-BANK-PRODUCT-RECOMMENDATION-AND-PREDICTION/blob/main/Product%20Recommendation%20and%20Prediction.ipynb
+[JupyterNotebook](https://github.com/JolinXiang/SANTANDER-BANK-PRODUCT-RECOMMENDATION-AND-PREDICTION/blob/main/Product%20Recommendation%20and%20Prediction.ipynb)
